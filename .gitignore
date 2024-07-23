@@ -12,3 +12,5 @@ SECRET_CONFIG
 !.env.ci
 !.env
 gcp-*.json
+model.sh
+data
